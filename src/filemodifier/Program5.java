@@ -101,7 +101,7 @@ public class Program5{
           
           System.out.println(new filemodifier.Program4().viewFileDetails(dir));
           
-          makeWrittable(dir);
+          makeWritable(dir);
           
           deleteFile(dir);
           
